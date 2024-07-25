@@ -7,10 +7,18 @@
       }
     ],
     "routes": [
-      {
-        "src": "/(.*)",
-        "dest": "/index.js"
-      }
+        {
+          "src": "/",
+          "dest": "/index.js"
+        },
+        {
+          "src": "/values",
+          "dest": "/values.json"
+        },
+        {
+          "src": "/json",
+          "dest": "/use.json"
+        }
     ]
   }
   
