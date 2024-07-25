@@ -1,0 +1,22 @@
+{
+  "name": "utilsapi",
+  "version": "6.9.0",
+  "description": "this is a utilities api",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NanoSoCute/UtilityAPI.git"
+  },
+  "author": "me",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NanoSoCute/UtilityAPI/issues"
+  },
+  "homepage": "https://github.com/NanoSoCute/UtilityAPI#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
